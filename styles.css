@@ -1,0 +1,75 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: black;
+    border: 5px solid #1b58a7;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .neon-green-box {
+    width: 70%;
+    margin: 20px 0;
+    padding: 20px;
+    border: 5px solid #2fd501;
+    border-radius: 10px;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .neon-red-text {
+    color: #F00;
+  }
+  h1{
+    color: #f50000;
+     text-align: center;
+  }
+  iframe {
+    width: 65%;
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #2fd501;
+    border-radius: 10px;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  h2{
+    color: #f50000;
+     text-align: center;
+     font-size: 25px;
+  }
+    
+  .neon-purple-button {
+    background-color: rgb(39, 6, 248);
+    color: #FFF;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  /* Hover effect for button */
+  .neon-purple-button:hover {
+    background-color: #f10b0b;
+  }
+
+  
+
+  
